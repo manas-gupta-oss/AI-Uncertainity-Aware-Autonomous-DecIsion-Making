@@ -1,0 +1,10 @@
+my_env/
+__pycache__/
+*.pyc
+
+# datasets
+data/
+data copy/
+Train/
+Test/
+Meta/
